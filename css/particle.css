@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans&display=swap');
+@font-face {
+    font-family: Exodus;
+    src: url('/fonts/EudoxusSans-ExtraBold.woff2');
+}
+body{
+    overflow: hidden;
+}
+.header{
+    font-size: 6rem;
+    font-family: 'Exodus';
+    color: #eebe21;
+}
+#particles-js{
+    background-color: #1d1d1d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
