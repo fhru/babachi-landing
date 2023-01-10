@@ -1,2 +1,1 @@
-# Landing Page Babachi
-iseng iseng aja om jangan dibuli
+# Landing Page for https://fahrurahman.my.id
